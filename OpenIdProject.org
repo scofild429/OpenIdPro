@@ -50,3 +50,4 @@ Open, Open, Open is the core idea of this project, I don't need to hidden, of co
 * How records will be propagated
 
 * How to deal with its drawback
+* Info
